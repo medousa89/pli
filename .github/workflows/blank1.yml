@@ -6,7 +6,7 @@ name: CI1
 on:
   schedule:
   # * is a special character in YAML so you have to quote this string
-   - cron:  '15 6 * * 2,4,0'
+   - cron:  '15 6 * * */2'
   push:
      branches: [ NEW ]
 
@@ -34,6 +34,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run script
         run: |
+          wget "http://sgcpm.com/livestream/stream.xml"
           sh test.sh
           ls
         
