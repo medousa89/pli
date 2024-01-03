@@ -134,4 +134,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8:Zoyzoynia Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Mon Jan  1 08:29:45 EET 2024
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Wed Jan  3 08:28:42 EET 2024
