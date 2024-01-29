@@ -49,13 +49,14 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8:Ert Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/playlist.m3u8:Ert Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8:Ert News
-#SERVICE 4097:0:1:24:24:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8:Ert Sports 
+#SERVICE 4097:0:1:24:24:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8:Ert Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8:Ert Sports 2
 #SERVICE 4097:0:1:11:11:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8:Ert World 
 #SERVICE 4097:0:1:9:9:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8:Ert1 Hd
 #SERVICE 4097:0:1:49:49:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8:Ert2 Hd
 #SERVICE 4097:0:1:10:10:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8:Ert3 Hd
 #SERVICE 4097:0:1:4830:4830:0:0:0:0:0:https%3a//channel.streams.ovh%3a1936/epsilontv/epsilontv/playlist.m3u8:Etv
+#SERVICE 4097:0:1:5920:5920:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/eurochannel:Euro Channel
 #SERVICE 4097:0:1:5739:5739:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8:Euronews 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S14056690/bFJBI4yhRh7E/playlist.m3u8:Eurovision Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros1/playlist.m3u8:Faros Tv Cy
@@ -100,9 +101,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c389faa13be3.streamlock.net%3a9553/onweb/live/playlist.m3u8:Nrg Tv
 #SERVICE 4097:0:1:2225:2225:0:0:0:0:0:https%3a//l1.cloudskep.com/tst/omcy/playlist.m3u8:Omega 
 #SERVICE 4097:0:1:3016:3016:0:0:0:0:0:http%3a//push-int.siliconweb.com/one/stream/playlist.m3u8:One Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8:Open Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8:Open Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/playlist.m3u8:Open Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8:Open Sport 
 #SERVICE 4097:0:1:800:800:0:0:0:0:0:https%3a//liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8:Open Tv Hd
 #SERVICE 4097:0:1:7001:7001:0:0:0:0:0:https%3a//livetv.streams.ovh%3a1936/paniktv/paniktv/playlist.m3u8:Panik Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.streams.ovh%3a1936/pellatv/pellatv/master.m3u8:Pella Tv
@@ -126,7 +125,6 @@
 #SERVICE 4097:0:1:4120:4120:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/tvstarfm:Star Be
 #SERVICE 4097:0:1:700:700:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star Hd 
 #SERVICE 4097:0:1:5108:5108:0:0:0:0:0:https%3a//raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8:Star K.E.
-#SERVICE 4097:0:1:5108:5108:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn#tab_embed.m3u8:Star K.E. Bup
 #SERVICE 4097:0:1:7065:7065:0:0:0:0:0:https%3a//live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8:Start Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8:Stent Tv
 #SERVICE 4097:0:1:7205:7205:0:0:0:0:0:http%3a//eco.streams.ovh%3a1935/syrostv1/syrostv1/playlist.m3u8:Syros Tv1
@@ -151,4 +149,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Sun Jan 28 08:25:48 EET 2024
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Mon Jan 29 08:27:13 EET 2024
