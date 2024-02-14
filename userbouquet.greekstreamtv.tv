@@ -44,8 +44,8 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//til.pp.ua%3a3093/live/ellinikosfmlive.m3u8:Ellinikos Fm
 #SERVICE 4097:0:1:5735:5735:0:0:0:0:0:https%3a//til.pp.ua%3a3365/live/enachannellive.m3u8:Ena Channel
 #SERVICE 4097:0:1:7050:7050:0:0:0:0:0:https%3a//til.pp.ua%3a3928/live/epiruslive.m3u8:Epirus Tv1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8:Ert Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/playlist.m3u8:Ert Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telmacosa.mmdlive.lldns.net/telmacosa/c69769cd99264f18b94552d43dea6b1f/manifest.m3u8:Ert Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telmacosa.mmdlive.lldns.net/telmacosa/81946d64fecc47b8a8cc3688aa770b1c/manifest.m3u8:Ert Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telmacosa.s.llnwi.net/osO/ERTNews/default/playlist.m3u8:Ert News
 #SERVICE 4097:0:1:24:24:0:0:0:0:0:https%3a//telmacosa.s.llnwi.net/ertlive/ertsports1/default/playlist.m3u8:Ert Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8:Ert Sports 2
@@ -56,7 +56,7 @@
 #SERVICE 4097:0:1:4830:4830:0:0:0:0:0:https%3a//channel.streams.ovh%3a1936/epsilontv/epsilontv/playlist.m3u8:Etv
 #SERVICE 4097:0:1:5920:5920:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/eurochannel:Euro Channel
 #SERVICE 4097:0:1:5739:5739:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8:Euronews 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S14056690/bFJBI4yhRh7E/playlist.m3u8:Eurovision Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telmacosa.mmdlive.lldns.net/telmacosa/4f99481c100940639f69c0b8ea11e573/manifest.m3u8:Eurovision Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros1/playlist.m3u8:Faros Tv Cy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros2/playlist.m3u8:Faros Tv2 Cy
 #SERVICE 4097:0:1:6005:6005:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/flashtvgr:Flash Tv
@@ -66,7 +66,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo3.alphaserver.gr%3a3466/live/greektvlondonlive.m3u8:Greek Tv London
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.108.62.57%3a8080/live/greektv1.m3u8:Greek Voice 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/groovytv/groovytv/playlist.m3u8:Groovy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//l5.cloudskep.com/hellenictv/htv/playlist.m3u8:Hellenic Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//l5.cloudskep.com/hellenictv/htv/playlist.m3u8:Hellenic Tv
 #SERVICE 4097:0:1:3034:3034:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/hightv/hightv/playlist.m3u8:High Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8:Horse Races
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//theagenis.fhw.gr%3a8080/maintv.mp4:Ime Web Tv
@@ -141,4 +141,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Mon Feb 12 08:27:04 EET 2024
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Wed Feb 14 08:27:19 EET 2024
