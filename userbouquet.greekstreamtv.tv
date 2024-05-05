@@ -7,10 +7,8 @@
 #SERVICE 4097:0:1:5700:5700:0:0:0:0:0:http%3a//www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8:Alfa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx:Alfa Sport Cy
 #SERVICE 4097:0:1:100:100:0:0:0:0:0:http%3a//alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8:Alpha Hd
-#SERVICE 4097:0:1:100:100:0:0:0:0:0:http%3a//88.99.254.101/alphaHD/index.m3u8:Alpha Hd Bup
 #SERVICE 4097:0:1:2226:2226:0:0:0:0:0:http%3a//l2.cloudskep.com/ant1cm2/abr/playlist.m3u8:Ant1 Cy
 #SERVICE 4097:0:1:300:300:0:0:0:0:0:http%3a//d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8:Ant1 Hd
-#SERVICE 4097:0:1:300:300:0:0:0:0:0:http%3a//88.99.254.101/ant1HD/index.m3u8:Ant1 Hd Bup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.armelin.one/channel/UC87VDJvN0E-79sxrOUigEwg.m3u8:Apokaliptika News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//neon.streams.gr%3a8081/argolidasport/tracks-v1a1/mono.m3u8:Argolida Sport
 #SERVICE 4097:0:1:3038:3038:0:0:0:0:0:https%3a//hugh.cdn.rumble.cloud/live/3fms19g4/slot-88/9831-juai_1080p/chunklist_DVR.m3u8:Art
@@ -28,9 +26,9 @@
 #SERVICE 4097:0:1:2230:2230:0:0:0:0:0:http%3a//213.7.193.54%3a4000/play/a009/index.m3u8:Capital
 #SERVICE 4097:0:1:5710:5710:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/centertv:Center Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.streams.ovh%3a1936/cinemaclassics/cinemaclassics/playlist.m3u8:Cinema Classics
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/34100/playlist.m3u8:Cinema Time
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/cinematimetv1:Cinema Time 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/cinematimetv2:Cinema Time 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101-fl.bozztv.com/ssh101/cinematimetv/playlist.m3u8:Cinema Time 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/34100/playlist.m3u8:Cinema Time 1 Bup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101-fl.bozztv.com/ssh101/cinematimetv2/playlist.m3u8:Cinema Time 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx:City Channel
 #SERVICE 4097:0:1:7015:7015:0:0:0:0:0:https%3a//itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8:Corfu Channel
 #SERVICE 4097:0:1:7105:7105:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvcreta/tvcreta/playlist.m3u8:Creta
@@ -57,11 +55,8 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8:Ert Sports 3
 #SERVICE 4097:0:1:11:11:0:0:0:0:0:http%3a//ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8:Ert World 
 #SERVICE 4097:0:1:9:9:0:0:0:0:0:http%3a//ertflix.s.llnwi.net/ertlive/ert1/default/index.m3u8:Ert1 Hd
-#SERVICE 4097:0:1:9:9:0:0:0:0:0:http%3a//88.99.254.101/ert1HD/index.m3u8:Ert1 Hd Bup
 #SERVICE 4097:0:1:49:49:0:0:0:0:0:http%3a//ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8:Ert2 Hd
-#SERVICE 4097:0:1:49:49:0:0:0:0:0:http%3a//88.99.254.101/ert2HD/index.m3u8:Ert2 Hd Bup
 #SERVICE 4097:0:1:10:10:0:0:0:0:0:http%3a//ertflix.s.llnwi.net/ertlive/ert3/default/index.m3u8:Ert3 Hd
-#SERVICE 4097:0:1:10:10:0:0:0:0:0:http%3a//88.99.254.101/ert3HD/index.m3u8:Ert3 Hd Bup
 #SERVICE 4097:0:1:4830:4830:0:0:0:0:0:https%3a//channel.streams.ovh%3a1936/epsilontv/epsilontv/playlist.m3u8:Etv
 #SERVICE 4097:0:1:5920:5920:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/eurochannel:Euro Channel
 #SERVICE 4097:0:1:5739:5739:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8:Euronews 
@@ -97,7 +92,6 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//itv.streams.ovh/magictv/magictv/playlist.m3u8:Magic Tv
 #SERVICE 4097:0:1:400:400:0:0:0:0:0:http%3a//dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8:Mak. Hd
 #SERVICE 4097:0:1:900:900:0:0:0:0:0:http%3a//c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8:Mega Hd
-#SERVICE 4097:0:1:900:900:0:0:0:0:0:http%3a//88.99.254.101/megaHD/index.m3u8:Mega Hd Bup
 #SERVICE 4097:0:1:5034:5034:0:0:0:0:0:https%3a//til.pp.ua%3a3872/live/mesogeiostvlive.m3u8:Mesogeios Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//til.pp.ua%3a3303/live/messiniatvlive.m3u8:Messinia Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.streams.ovh%3a3876/live/mgrtvlive.m3u8:Mgr Tv
@@ -114,7 +108,6 @@
 #SERVICE 4097:0:1:3016:3016:0:0:0:0:0:http%3a//push-int.siliconweb.com/one/stream/playlist.m3u8:One Tv
 #SERVICE 4097:0:1:2231:2231:0:0:0:0:0:http%3a//213.7.193.54%3a4000/play/a008/index.m3u8:One Tv Cy
 #SERVICE 4097:0:1:800:800:0:0:0:0:0:https%3a//liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8:Open Tv Hd
-#SERVICE 4097:0:1:800:800:0:0:0:0:0:http%3a//88.99.254.101/etvHD/index.m3u8:Open Tv Hd Bup
 #SERVICE 4097:0:1:4470:4470:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/ort/ort/playlist.m3u8:Ort Tv
 #SERVICE 4097:0:1:7001:7001:0:0:0:0:0:https%3a//livetv.streams.ovh%3a1936/paniktv/paniktv/playlist.m3u8:Panik Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.streams.ovh%3a1936/pellatv/pellatv/master.m3u8:Pella Tv
@@ -136,10 +129,8 @@
 #SERVICE 4097:0:1:4550:4550:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8:Rtp Kentro
 #SERVICE 4097:0:1:2227:2227:0:0:0:0:0:http%3a//l10.cloudskep.com/sigmatv/stv/playlist.m3u8:Sigma
 #SERVICE 4097:0:1:600:600:0:0:0:0:0:http%3a//skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8:Skai Hd 
-#SERVICE 4097:0:1:600:600:0:0:0:0:0:http%3a//88.99.254.101/skaiHD/index.m3u8:Skai Hd  Bup
 #SERVICE 4097:0:1:4120:4120:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/tvstarfm:Star Be
 #SERVICE 4097:0:1:700:700:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star Hd 
-#SERVICE 4097:0:1:700:700:0:0:0:0:0:http%3a//88.99.254.101/starHD/index.m3u8:Star Hd Bup
 #SERVICE 4097:0:1:5108:5108:0:0:0:0:0:https%3a//raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8:Star K.E.
 #SERVICE 4097:0:1:7065:7065:0:0:0:0:0:https%3a//live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8:Start Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8:Stent Tv
@@ -165,4 +156,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Fri May  3 09:29:09 EEST 2024
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Sun May  5 09:28:52 EEST 2024
