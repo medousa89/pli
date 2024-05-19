@@ -2,7 +2,7 @@
 #SERVICE 4097:0:1:5850:5850:0:0:0:0:0:http%3a//eu2.tv4e.gr%3a1935/live/smil%3amyStream.sdp.smil/playlist.m3u8:4E
 #SERVICE 4097:0:1:3004:3004:0:0:0:0:0:http%3a//actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8:Action 24
 #SERVICE 4097:0:1:5815:5815:0:0:0:0:0:https%3a//cdn.istoikona.com/aeolostv/live/playlist.m3u8:Aeolos Tv
-#SERVICE 4097:0:1:5720:5720:0:0:0:0:0:https%3a//250weu.bozztv.com/ssh101/ssh101/aigaiotv/playlist.m3u8:Aigaio Tv
+#SERVICE 4097:0:1:5720:5720:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8:Aigaio Tv
 #SERVICE 4097:0:1:3068:3068:0:0:0:0:0:https%3a//itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8:Alert
 #SERVICE 4097:0:1:5700:5700:0:0:0:0:0:http%3a//www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8:Alfa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx:Alfa Sport Cy
@@ -40,6 +40,7 @@
 #SERVICE 4097:0:1:4260:4260:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/diontvkentrikismakedonias:Dion Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/dtpylias:Dtp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//channel.streams.ovh%3a1936/dipolo/dipolo/playlist.m3u8:Dtv6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/extacy_tv:Ectacy Tv
 #SERVICE 4097:0:1:5780:5780:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/tvdelta/tvdelta/playlist.m3u8:Ed Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.streams.ovh%3a1936/egnatiatv/egnatiatv/index.m3u8:Egnatia Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8:Ekklhsia Tv Hd
@@ -93,6 +94,7 @@
 #SERVICE 4097:0:1:5034:5034:0:0:0:0:0:https%3a//til.pp.ua%3a3872/live/mesogeiostvlive.m3u8:Mesogeios Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//til.pp.ua%3a3303/live/messiniatvlive.m3u8:Messinia Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.streams.ovh%3a3876/live/mgrtvlive.m3u8:Mgr Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8:Montaz Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.greektv.ca/hls1/greektv.m3u8:Montreal Greek Tv
 #SERVICE 4097:0:1:7002:7002:0:0:0:0:0:http%3a//naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8:Naftemporikh Tv
 #SERVICE 4097:0:1:7130:7130:0:0:0:0:0:https%3a//live.neatv.gr%3a8888/hls/neatv.m3u8:Nea Tv
@@ -104,6 +106,7 @@
 #SERVICE 4097:0:1:2225:2225:0:0:0:0:0:http%3a//213.7.193.54%3a4000/play/a003/index.m3u8:Omega
 #SERVICE 4097:0:1:3016:3016:0:0:0:0:0:http%3a//push-int.siliconweb.com/one/stream/playlist.m3u8:One Tv
 #SERVICE 4097:0:1:2231:2231:0:0:0:0:0:http%3a//213.7.193.54%3a4000/play/a008/index.m3u8:One Tv Cy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ns5.vermantiagaming.com/opap/livesports/playlist.m3u8:Opap Tv
 #SERVICE 4097:0:1:800:800:0:0:0:0:0:https%3a//liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8:Open Tv Hd
 #SERVICE 4097:0:1:4470:4470:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/ort/ort/playlist.m3u8:Ort Tv
 #SERVICE 4097:0:1:7001:7001:0:0:0:0:0:https%3a//livetv.streams.ovh%3a1936/paniktv/paniktv/playlist.m3u8:Panik Tv
@@ -144,6 +147,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8:Tv Dipso 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvfilopoli/tvfilopoli/playlist.m3u8:Tv Filopoli
 #SERVICE 4097:0:1:5760:5760:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/tvkosmosgr:Tv Kosmos
+#SERVICE 4097:0:1:4240:4240:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8:Vergina Tv
 #SERVICE 4097:0:1:2221:2221:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/verginacy:Vergina Tv Cy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ellastvmax.better-than.tv/freetv/village-world/index.m3u8:Village World
 #SERVICE 4097:0:1:8:8:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:Vouli
@@ -152,4 +156,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Fri May 17 09:29:46 EEST 2024
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Sun May 19 09:28:15 EEST 2024
