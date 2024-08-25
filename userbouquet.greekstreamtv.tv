@@ -23,7 +23,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh%3a8081/barazatv/index.m3u8:Baraza Tv Greek
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.streams.ovh%3a1936/barazarelax/barazarelax/playlist.m3u8:Baraza Tv Relaxing
 #SERVICE 4097:0:1:5006:5006:0:0:0:0:0:https%3a//besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8:Best Tv
-#SERVICE 4097:0:1:3012:3012:0:0:0:0:0:https%3a//cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8:Blue Sky
+#SERVICE 4097:0:1:3012:3012:0:0:0:0:0:https%3a//cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8:Blue Sky
 #SERVICE 4097:0:1:5710:5710:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/centertv:Center Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.mediacp.eu%3a8081/cinemaclassics/index.m3u8:Cinema Classics
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glb.bozztv.com/glb/ssh101/cinematimetv/playlist.m3u8:Cinema Time 1
@@ -150,4 +150,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Fri Aug 23 22:44:26 EEST 2024
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Sun Aug 25 09:13:51 EEST 2024
