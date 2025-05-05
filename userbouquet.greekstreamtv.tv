@@ -140,4 +140,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a88/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fr.crystalweb.net%3a1936/zeustv/zeustv/playlist.m3u8:Zeys Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Sat May  3 21:34:12 EEST 2025
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Mon May  5 19:25:00 EEST 2025
